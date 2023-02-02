@@ -1,0 +1,10 @@
+Software Used: Python 3
+
+Libraries used:
+speech_recognition
+sounddevice
+tkinter
+
+Instructions to execute the code:
+Install the above mentioned libraries
+Run the file sudoku.py
